@@ -1,3 +1,3 @@
 # cookbook
-Authors - Buuvana sri Addala 
+Authors - Buuvana sri Addala and 
           Harshitha Devi
